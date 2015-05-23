@@ -156,4 +156,4 @@ Yes, just use <img src="link to image" /> between the trigger shortcode e.g
 
 == Screenshots ==
 
-1. widget settings
+1.
