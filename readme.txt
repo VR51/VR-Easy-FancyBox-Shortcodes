@@ -2,7 +2,7 @@
 
 Contributors: leehodson
 Tags: easy fancybox, fancybox shortcodes, shortcodes, lightbox
-Donate link: http://journalxtra.com/
+Donate link: https://journalxtra.com/wordpress/plugins-wordpress/wordpress-easy-fancybox-shortcodes-plugin/
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0.1
@@ -80,29 +80,31 @@ Example 1
 
 This first example opens a popup box that displays the text 'Hello' when the link 'Click Me' is clicked.
 
-`[easyfbox box="1"]Hello[/easyfbox]
+[easyfbox box="1"]Hello[/easyfbox]
 
-[easypopper box="1"]Click Me[/easypopper]`
+[easypopper box="1"]Click Me[/easypopper]
 
 Example 2
 
 This second example opens a popup box that displays the text 'Hello Again' when the link 'Click Me This Time' is clicked.
 
-`[easyfbox box="2" height="100" width="100"]Hello Again[/easyfbox]
+[easyfbox box="2" height="100" width="100"]Hello Again[/easyfbox]
 
-[easypopper box="2"]Click Me This Time![/easypopper]`
+[easypopper box="2"]Click Me This Time![/easypopper]
 
 Example 3
 
 Embed a Vimeo video using an iFrame
 
-`[easyfbox box="1"]<iframe src="https://player.vimeo.com/video/127958989" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>[/easyfbox]`
+[easyfbox box="1"]<iframe src="https://player.vimeo.com/video/127958989" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>[/easyfbox]
 
 [easypopper box="1"]Watch This[/easypopper]
 
 == Other Notes ==
 
 Be sure to configure Easy FancyBox to display the content type you want to use in inline popups.
+
+More details at https://journalxtra.com/wordpress/plugins-wordpress/wordpress-easy-fancybox-shortcodes-plugin/
 
 = One =
 

@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: VR Easy Fancybox Shortcodes
-Plugin URI: http://journalxtra.com/
+Plugin URI: https://journalxtra.com/wordpress/plugins-wordpress/wordpress-easy-fancybox-shortcodes-plugin/
 Description: Adds shortcodes for the Easy Fancybox plugin to make inline popup box creation a little easier.
 Version: 1.0.1
-Author: Lee Hodson
+Author: Lee Hodson, VR51
 Author URI: http://vizred.com/
 
 ---------------------------------------------------------------------------
